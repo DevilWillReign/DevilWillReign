@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevilWillReign
 - 👀 I’m interested in all kinds of programming languages and cybersecurity
-- 🌱 I’m currently learning Android and Kotlin
+- 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
